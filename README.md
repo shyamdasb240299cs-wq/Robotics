@@ -83,7 +83,7 @@ The system continuously:
 - Arduino board (for .ino deployment)
 
 ## Author
-shyamdas N
+Shyamdas N
 
 ## License
 Open source - Feel free to use and modify for your robotics projects
